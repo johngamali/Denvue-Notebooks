@@ -1,0 +1,7 @@
+## Conda Environment Setup:
+
+conda create -n denvue python=3.10 -y
+conda activate denvue
+conda install ipykernel notebook -y
+python -m ipykernel install --user --name=denvue --display-name "denvue"
+pip install -r requirements.txt

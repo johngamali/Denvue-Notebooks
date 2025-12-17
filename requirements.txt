@@ -1,0 +1,12 @@
+geopandas
+fiona
+openpyxl
+folium
+earthengine-api
+geemap
+seaborn
+matplotlib
+statsmodels
+scikit-learn
+xgboost
+shap
